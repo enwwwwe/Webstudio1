@@ -1,0 +1,10 @@
+:root {
+    --logo-color:#000;
+    --accent-color:#2196F3;
+    --text-color:#212121;
+    --added-color:#757575;
+    --main-bacground:#fff;
+    --team-bacground:#F5F4FA;
+    --footer-bacground:#2F303A;
+    --footer-tel:rgba(255, 255, 255, 0.60);
+}
